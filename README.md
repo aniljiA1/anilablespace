@@ -8,9 +8,7 @@ This project demonstrates **scalable full-stack engineering**, **ethical scrapin
 
 ## 🔗 Live Links
 
-- **Frontend (Next.js)**: https://your-frontend-url.vercel.app
-- **Backend (NestJS API)**: https://your-backend-url.onrender.com
-- **Submission Form**: https://forms.gle/AiZRVZL2tyoQSups5
+
 
 ---
 
@@ -157,9 +155,7 @@ npm install
 npm run dev
 Create .env.local:
 
-env
-Copy code
-NEXT_PUBLIC_API_URL=http://localhost:4000
+
 3️⃣ Backend Setup
 bash
 Copy code
