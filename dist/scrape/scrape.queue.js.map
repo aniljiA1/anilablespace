@@ -1,0 +1,1 @@
+{"version":3,"file":"scrape.queue.js","sourceRoot":"","sources":["../../src/scrape/scrape.queue.ts"],"names":[],"mappings":";;;AAAA,mCAA+B;AAElB,QAAA,WAAW,GAAG,IAAI,cAAK,CAAC,QAAQ,EAAE;IAC7C,UAAU,EAAE;QACV,IAAI,EAAE,WAAW;QACjB,IAAI,EAAE,IAAI;KACX;CACF,CAAC,CAAC"}

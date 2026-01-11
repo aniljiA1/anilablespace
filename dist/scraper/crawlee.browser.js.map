@@ -1,0 +1,1 @@
+{"version":3,"file":"crawlee.browser.js","sourceRoot":"","sources":["../../src/scraper/crawlee.browser.ts"],"names":[],"mappings":";;AAEA,sCAUC;AAZD,qCAA4C;AAE5C,SAAgB,aAAa,CAAC,OAAwC;IACpE,OAAO,IAAI,2BAAiB,CAAC;QAC3B,cAAc,EAAE,CAAC;QACjB,aAAa,EAAE;YACb,aAAa,EAAE;gBACb,QAAQ,EAAE,IAAI;aACf;SACF;QACD,cAAc,EAAE,OAAO;KACxB,CAAC,CAAC;AACL,CAAC"}
